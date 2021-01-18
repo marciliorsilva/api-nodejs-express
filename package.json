@@ -1,0 +1,23 @@
+{
+  "name": "api-nodejs-express",
+  "version": "1.0.0",
+  "description": "API simples utilizando NodeJS - Express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciliorsilva/api-nodejs-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciliorsilva/api-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/marciliorsilva/api-nodejs-express#readme"
+}
